@@ -1,4 +1,4 @@
-# Analyze color with PlantCV-Geospatial
+# PlantCV-Geospatial: Analyze Color Tutorial
 
 Try our tutorial for using PlantCV-Geospatial to analyze color and spectral indices on geospatial images. 
 This tutorial is for local use only as it uses napari, which will not open through web browsers.
@@ -8,6 +8,8 @@ This tutorial is for local use only as it uses napari, which will not open throu
 Geospatial, color, spectral index, plot boundaries
 
 ## Citations
+
+Citation for this tutorial: 10.5281/zenodo.23792909
 
 Example image comes from:
 Brown, K. E., Schuhl, H., Srivastava, D., Beyene, G., Li, M., Fahlgren, N., & Murphy, K. M. (2026). Quantifying growth and lodging in Tef (Eragrostis tef) with Uncrewed Aerial Systems (UAS). Plant Direct, 10(5), e70173.
